@@ -1,5 +1,4 @@
 tmp/*
-*.xml
 *.txt
 
 # symbole # en début de ligne pour écrire un commentaire dans le fichier .gitignore
