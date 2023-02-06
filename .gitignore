@@ -1,7 +1,6 @@
 tmp/todo.txt
 tmp/*
-
-#test
+*.txt
 
 # symbole # en début de ligne pour écrire un commentaire dans le fichier .gitignore
 # syntaxe tmp/* -> ignorer tous les fichiers/sous-dossiers à l'intérieur du dossier tmp
